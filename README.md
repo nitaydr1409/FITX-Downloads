@@ -6,7 +6,7 @@
 
 ## Android
 
-[הורדת FITX 1.0.1 לבדיקה](https://github.com/nitaydr1409/FITX-Downloads/raw/refs/heads/main/fitx-android-1.0.1-debug.apk)
+[הורדת FITX 1.0.2 לבדיקה](https://github.com/nitaydr1409/FITX-Downloads/raw/refs/heads/main/fitx-android-1.0.2-debug.apk)
 
 זו גרסת בדיקה חתומה במפתח Android Debug. היא מיועדת להתנסות, לא לפרסום בחנות ולא להבטחת עדכון מעל התקנות קודמות. להפצה יציבה נדרש מפתח חתימה קבוע.
 
