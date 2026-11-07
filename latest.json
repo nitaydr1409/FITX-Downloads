@@ -1,4 +1,5 @@
 {
-  "version": "1.0.2",
-  "apkUrl": "https://fitx-5r8.pages.dev/assets/downloads/fitx-android-1.0.2-debug.apk"
+  "version": "1.0.3",
+  "apkUrl": "https://github.com/nitaydr1409/FITX-Downloads/raw/refs/heads/main/app-release.apk",
+  "sha256": "96f55d99c700d1b071327cbb3a720e50bf2ad1f87e30413a3f1e237dceb046b7"
 }
