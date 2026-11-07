@@ -6,9 +6,9 @@
 
 ## Android
 
-[הורדת FITX 1.0.2 לבדיקה](https://fitx-5r8.pages.dev/assets/downloads/fitx-android-1.0.2-debug.apk)
+[הורדת FITX 1.0.3 — גרסה רשמית חתומה](https://github.com/nitaydr1409/FITX-Downloads/raw/refs/heads/main/app-release.apk)
 
-זו גרסת בדיקה חתומה במפתח Android Debug. היא מיועדת להתנסות, לא לפרסום בחנות ולא להבטחת עדכון מעל התקנות קודמות. להפצה יציבה נדרש מפתח חתימה קבוע.
+גרסה רשמית חתומה במפתח FITX הקבוע. עדכונים עתידיים ייחתמו באותו מפתח.
 
 ## iPhone
 
